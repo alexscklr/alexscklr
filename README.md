@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in Programming, Design and Mathematics
+- 🌱 I’m currently learning CSS, JS, C++ and multiple 3D-Modelling-Tools
+- 📫 How to reach me alexander.sickler@stud.hshl.de
