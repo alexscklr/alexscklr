@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexander
-- 👀 I’m interested in Programming, Design and Mathematics
-- 🌱 I’m currently learning CSS, JS, C++ and multiple 3D-Modelling-Tools
-- 📫 How to reach me alexander.sickler@stud.hshl.de
+- My focus lies on React, TypeScript and PostgreSQL
+- I’m currently practicing in C# .NET and want to go more into Angular
+- How to reach me: alex.sickler2704@gmail.com
