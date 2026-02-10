@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexander
 - My focus lies on React, TypeScript, PostgreSQL and C#
-- I’m currently practicing in C# .NET and want to go more into Angular
+- I’m currently practicing in C# .NET and want to go more into Angular in the near future
 - How to reach me: alex.sickler2704@gmail.com
