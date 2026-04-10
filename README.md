@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexander
-- My focus lies on React, TypeScript, PostgreSQL and C#
-- I’m currently practicing in C# .NET and want to go more into Angular in the near future
+- My focus lies on React, TypeScript, Supabase (PostgreSQL) and C#
+- I’m currently working on my bachelor thesis (React + Supabase) and practicing in C# .NET
 - How to reach me: alex.sickler2704@gmail.com
